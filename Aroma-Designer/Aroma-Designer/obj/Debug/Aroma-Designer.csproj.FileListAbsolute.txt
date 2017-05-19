@@ -1,0 +1,8 @@
+C:\Users\Administrator\Downloads\Desktop\Aroma-Designer\Aroma-Designer\Aroma-Designer\bin\Debug\Aroma-Designer.exe.config
+C:\Users\Administrator\Downloads\Desktop\Aroma-Designer\Aroma-Designer\Aroma-Designer\bin\Debug\Aroma-Designer.exe
+C:\Users\Administrator\Downloads\Desktop\Aroma-Designer\Aroma-Designer\Aroma-Designer\bin\Debug\Aroma-Designer.pdb
+C:\Users\Administrator\Downloads\Desktop\Aroma-Designer\Aroma-Designer\Aroma-Designer\obj\Debug\Aroma-Designer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\Desktop\Aroma-Designer\Aroma-Designer\Aroma-Designer\obj\Debug\Aroma_Designer.Properties.Resources.resources
+C:\Users\Administrator\Downloads\Desktop\Aroma-Designer\Aroma-Designer\Aroma-Designer\obj\Debug\Aroma-Designer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\Desktop\Aroma-Designer\Aroma-Designer\Aroma-Designer\obj\Debug\Aroma-Designer.exe
+C:\Users\Administrator\Downloads\Desktop\Aroma-Designer\Aroma-Designer\Aroma-Designer\obj\Debug\Aroma-Designer.pdb
